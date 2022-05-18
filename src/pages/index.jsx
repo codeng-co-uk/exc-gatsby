@@ -18,7 +18,7 @@ export default function Home({ data }) {
             My Projects
           </Link>
         </div>
-        <p>{title} {description}</p>
+        {/* <p>{title} {description}</p> */}
       </section>
     </Layout>
   )

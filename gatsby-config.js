@@ -9,7 +9,7 @@ module.exports = {
   plugins: [],
   siteMetadata:{
     title: 'Projects portfolio',
-    description: 'Micha Kurzewski\'s personal website',
+    description: 'Michal Kurzewski\'s personal website',
     copyright: "Copyright © 2022. All rights reserved.",
   }
 }
